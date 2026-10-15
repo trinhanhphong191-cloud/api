@@ -1,0 +1,16 @@
+{
+  "name": "tonghop-api",
+  "version": "1.0.0",
+  "description": "Tong Hop Tai Xiu API",
+  "main": "tonghop.js",
+  "scripts": {
+    "start": "node tonghop.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
